@@ -16,3 +16,5 @@
 🌐 Además, me encanta explorar y aplicar tecnologías Open Source, así como experimentar con proyectos relacionados con Impresión 3D, Raspberry Pi y Seguridad Informática.
 
 ¡Estoy emocionado por seguir explorando nuevas oportunidades y contribuir al mundo del desarrollo de software!
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fmarchena&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="fmarchena"/>
